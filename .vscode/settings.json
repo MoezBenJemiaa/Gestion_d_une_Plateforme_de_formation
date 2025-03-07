@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "classes",//file that Have the classes files
+        "",//file that Have the main file
+        "Manipilation Db",//file that Have the main file
+        "Exeption",//file that Have the exception file
+        "GUI_Interfaces"//file that Have the interfaces files
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\mysql-connector-j-9.1.0.jar"
+    ]
+}
