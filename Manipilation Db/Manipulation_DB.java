@@ -3,8 +3,8 @@ import java.sql.*;
 public class Manipulation_DB {
     private static String driver = "com.mysql.cj.jdbc.Driver";
     private static String connection = "jdbc:mysql://localhost:3306/Gestion_Formation"; 
-    private static String user = "root";                  
-    private static String password = "eri1485";  //Mysql password    
+    private static String user = "";                  
+    private static String password = "";  //Mysql password    
 
 
     public static Connection con = null;
